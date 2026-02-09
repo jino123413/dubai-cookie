@@ -15,6 +15,8 @@ const ResultScreen: React.FC<ResultScreenProps> = ({
 }) => {
   const { cookie, name } = result;
 
+  const [shareComplete, setShareComplete] = React.useState(false);
+
   const handleShare = useCallback(async () => {
     const shareText = `${name}님은 "${cookie.name}"이래! 🍪\n이름 속에 숨은 감정, 쫀쿠로 태어나다`;
 
@@ -29,6 +31,10 @@ const ResultScreen: React.FC<ResultScreenProps> = ({
             title: '내가 두쫀쿠?',
             text: shareText,
           });
+        } else {
+          await navigator.clipboard.writeText(shareText);
+          setShareComplete(true);
+          setTimeout(() => setShareComplete(false), 2000);
         }
       } catch {}
     }
@@ -94,7 +100,7 @@ const ResultScreen: React.FC<ResultScreenProps> = ({
       {/* Share button */}
       <button className="btn-share" onClick={handleShare}>
         <ShareIcon size={18} color="#FFF8F0" />
-        <span>친구에게 공유하기</span>
+        <span>{shareComplete ? '복사 완료!' : '친구에게 공유하기'}</span>
       </button>
 
       {/* AD retry button */}

@@ -8,7 +8,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '핑크 하트 스프링클 + 딸기 드리즐',
     themeColor: '#FF69B4',
     personality: '당신의 마음엔 설렘이 가득한 사람이에요. 새로운 시작 앞에서 두근거리는 그 마음이 주변까지 물들이죠. 작은 일에도 행복을 발견하는 당신은, 일상을 특별하게 만드는 마법사 같은 존재예요.',
-    quote: '두근거림을 멈추지 마세요, 그게 당신을 빛나게 해요',
+    quote: '두근거림을 멈추지 말라쫀쿠~ 그게 너를 빛나게 해주쫀쿠!',
     fluxPrompt: 'heart-shaped pink sprinkles, strawberry drizzle on dubai cookie',
   },
   {
@@ -18,7 +18,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '레드벨벳 글레이즈 + 금박 스트라이프',
     themeColor: '#DC143C',
     personality: '어딜 가든 시선을 사로잡는 당신이에요. 리더십이 자연스럽게 묻어나고, 당당한 태도가 매력적이죠. 두려움 앞에서도 한 발짝 먼저 나서는 그 용기가, 주변 사람들에게 큰 힘이 됩니다.',
-    quote: '용기란 두렵지 않은 게 아니라, 두려워도 한 걸음 내딛는 거예요',
+    quote: '두려워도 한 걸음 내딛는 게 진짜 용기쫀쿠! 넌 할 수 있쫀쿠~',
     fluxPrompt: 'red velvet glaze, bold gold leaf stripes on dubai cookie',
   },
   {
@@ -28,7 +28,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '라벤더 꽃 + 연보라 파우더 더스팅',
     themeColor: '#9B8EC4',
     personality: '당신 곁에 있으면 마음이 편안해지는, 그런 사람이에요. 조용하지만 깊은 존재감으로 사람들의 마음을 어루만지죠. 흔들리지 않는 내면의 평화가 당신의 가장 큰 강점이에요.',
-    quote: '고요한 마음이 가장 큰 힘이에요, 오늘도 평온하게',
+    quote: '고요한 마음이 가장 큰 힘이쫀쿠~ 오늘도 평온하게 보내라쫀쿠!',
     fluxPrompt: 'dried lavender flowers, soft purple powder dusting on dubai cookie',
   },
   {
@@ -38,7 +38,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '레인보우 스프링클 + 밝은 옐로우 글레이즈',
     themeColor: '#FFD700',
     personality: '함께 있으면 절로 웃음이 나오는, 분위기 메이커예요. 밝은 에너지가 전염되어 주변이 환해지죠. 작은 것에도 감사할 줄 아는 마음이, 매일을 축제처럼 만들어줍니다.',
-    quote: '행복은 먼 곳에 있지 않아요, 지금 이 순간이 선물이에요',
+    quote: '행복은 먼 곳에 없쫀쿠~ 지금 이 순간이 선물이쫀쿠!',
     fluxPrompt: 'rainbow sprinkles, bright yellow glaze coating on dubai cookie',
   },
   {
@@ -48,7 +48,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '퍼플 마블링 + 은박 별 글리터',
     themeColor: '#C0B0D0',
     personality: '현실과 상상의 경계를 자유롭게 넘나드는 몽상가예요. 남들이 보지 못하는 아름다움을 발견하고, 그것을 세상에 전하는 재능이 있죠. 당신의 상상력은 세상을 더 풍요롭게 만들어요.',
-    quote: '꿈꾸는 시간은 절대 낭비가 아니에요',
+    quote: '꿈꾸는 시간은 절대 낭비가 아니쫀쿠~ 맘껏 상상하라쫀쿠!',
     fluxPrompt: 'purple marble chocolate swirl, silver star-shaped glitter on dubai cookie',
   },
   {
@@ -58,7 +58,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '오렌지 제스트 + 레드 캐러멜 드리즐',
     themeColor: '#FF4500',
     personality: '한번 빠지면 끝까지 몰두하는 열정의 소유자예요. 뜨거운 마음으로 무엇이든 해내고야 마는 추진력이 대단하죠. 그 에너지가 때론 주변을 놀라게 하지만, 결국엔 모두를 감동시켜요.',
-    quote: '불꽃처럼 타올라요, 당신의 열정이 세상을 바꿔요',
+    quote: '불꽃처럼 타오르라쫀쿠! 너의 열정이 세상을 바꾸쫀쿠~',
     fluxPrompt: 'orange zest garnish, fiery red caramel drizzle pattern on dubai cookie',
   },
   {
@@ -68,7 +68,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '시나몬 파우더 + 미니 마시멜로',
     themeColor: '#D2A679',
     personality: '따뜻한 말 한마디로 사람의 마음을 녹이는 사람이에요. 누군가의 이야기에 진심으로 귀 기울이고, 조용히 옆에 있어주는 것만으로도 큰 위로가 되죠. 당신은 겨울밤의 핫초코 같은 존재예요.',
-    quote: '따뜻한 한마디가 누군가의 하루를 바꿀 수 있어요',
+    quote: '따뜻한 한마디가 누군가의 하루를 바꾸쫀쿠~ 넌 이미 포근하쫀쿠!',
     fluxPrompt: 'cinnamon heavy dusting, mini marshmallows on top of dubai cookie',
   },
   {
@@ -78,7 +78,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '코코넛 플레이크 + 열대과일 조각',
     themeColor: '#87CEEB',
     personality: '틀에 갇히는 걸 싫어하는 자유로운 영혼이에요. 어디든 바람처럼 훌쩍 떠날 수 있는 가벼움이 있고, 새로운 경험을 두려워하지 않죠. 당신의 자유로움이 주변에 신선한 바람을 불어넣어요.',
-    quote: '바람이 부는 곳으로 가세요, 그곳에 당신의 길이 있어요',
+    quote: '바람 부는 곳으로 가라쫀쿠~ 거기에 너의 길이 있쫀쿠!',
     fluxPrompt: 'coconut flakes, colorful tropical fruit pieces on dubai cookie',
   },
   {
@@ -88,7 +88,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '두꺼운 슈가파우더 + 화이트초콜릿',
     themeColor: '#F5F0EB',
     personality: '눈처럼 깨끗한 마음의 소유자예요. 거짓 없는 눈빛과 진심 어린 미소가 사람들의 마음을 열게 하죠. 세상의 복잡함 속에서도 본질을 놓치지 않는 당신은, 정말 특별한 사람이에요.',
-    quote: '있는 그대로가 가장 아름다운 거예요',
+    quote: '있는 그대로가 가장 아름다운 거쫀쿠~ 자신감 가지라쫀쿠!',
     fluxPrompt: 'heavy powdered sugar snow, white chocolate drizzle on dubai cookie',
   },
   {
@@ -98,7 +98,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '다크초콜릿 글레이즈 + 금박 왕관 패턴',
     themeColor: '#2C1810',
     personality: '말 한마디에 사람들이 귀 기울이는 존재감의 소유자예요. 타고난 리더의 기운이 있어서, 의도하지 않아도 자연스럽게 중심에 서게 되죠. 당신의 확신에 찬 태도가 주변에 안정감을 줍니다.',
-    quote: '당신이 서 있는 곳이 곧 무대예요',
+    quote: '네가 서 있는 곳이 곧 무대쫀쿠! 당당하게 서라쫀쿠~',
     fluxPrompt: 'dark chocolate mirror glaze, gold leaf crown decoration on dubai cookie',
   },
   {
@@ -108,7 +108,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '컬러풀 캔디 + 팝핑캔디',
     themeColor: '#FF6B6B',
     personality: '당신이 있는 곳엔 항상 웃음꽃이 피어요. 재치 있는 유머와 엉뚱한 상상력으로 분위기를 띄우는 달인이죠. 진지한 상황에서도 긴장을 풀어주는 당신은, 모두가 아끼는 비타민 같은 존재예요.',
-    quote: '웃음 한 번이 인생을 가볍게 만들어요, 오늘도 장난스럽게!',
+    quote: '웃음 한 번이면 인생이 가벼워지쫀쿠~ 오늘도 장난스럽게 가쫀쿠!',
     fluxPrompt: 'colorful candy pieces, popping candy, playful decoration on dubai cookie',
   },
   {
@@ -118,7 +118,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '말차 파우더 + 금가루 라인',
     themeColor: '#7DB356',
     personality: '깊이 있는 생각과 넓은 시야를 가진 현자 같은 사람이에요. 복잡한 상황에서도 본질을 꿰뚫어 보는 통찰력이 있죠. 당신의 한마디가 누군가에겐 인생의 전환점이 될 수도 있어요.',
-    quote: '답은 이미 당신 안에 있어요, 조용히 귀 기울여보세요',
+    quote: '답은 이미 네 안에 있쫀쿠~ 조용히 귀 기울여보라쫀쿠!',
     fluxPrompt: 'matcha green tea powder, thin gold dust lines on dubai cookie',
   },
   {
@@ -128,7 +128,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '장미꽃잎 가니쉬 + 핑크 드리즐',
     themeColor: '#E88B9E',
     personality: '세심한 배려와 따스한 눈빛으로 사람들의 마음을 사로잡는 사람이에요. 상대의 작은 변화도 놓치지 않고, 필요한 순간에 딱 맞는 위로를 건네죠. 당신의 다정함은 세상에서 가장 부드러운 힘이에요.',
-    quote: '작은 관심이 큰 사랑이 되는 거예요',
+    quote: '작은 관심이 큰 사랑이 되는 거쫀쿠~ 넌 이미 다정하쫀쿠!',
     fluxPrompt: 'dried rose petals, pink chocolate drizzle on dubai cookie',
   },
   {
@@ -138,7 +138,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '블랙 코코아 코팅 + 실버 펄 장식',
     themeColor: '#1A1A1A',
     personality: '자기만의 기준이 뚜렷한, 쿨하고 세련된 사람이에요. 남의 시선에 흔들리지 않는 당당함이 있고, 그 자체로 아우라가 느껴지죠. 쉽게 다가갈 수 없지만, 알면 알수록 매력적인 당신이에요.',
-    quote: '나만의 기준이 있는 사람이 가장 멋져요',
+    quote: '나만의 기준이 있는 사람이 가장 멋지쫀쿠~ 도도하게 가라쫀쿠!',
     fluxPrompt: 'black cocoa powder coating, silver pearl decorations on dubai cookie',
   },
   {
@@ -148,7 +148,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '크림치즈 프로스팅 + 꿀 드리즐',
     themeColor: '#F0DCC8',
     personality: '급하지 않게, 자기만의 속도로 나아가는 사람이에요. 조급해하지 않는 태도가 오히려 일을 잘 풀리게 만들죠. 당신의 여유로움이 주변 사람들에게도 편안한 숨 쉴 틈을 줍니다.',
-    quote: '천천히 가도 괜찮아요, 당신의 속도가 정답이에요',
+    quote: '천천히 가도 괜찮쫀쿠~ 너의 속도가 정답이쫀쿠!',
     fluxPrompt: 'cream cheese frosting swirl, golden honey drizzle on dubai cookie',
   },
   {
@@ -158,7 +158,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '블루베리 토핑 + 보라 글레이즈',
     themeColor: '#8B4572',
     personality: '보통 사람은 지나치는 순간에서도 깊은 감정을 느끼는 사람이에요. 음악 한 소절, 노을 한 장면에도 가슴이 뭉클해지죠. 그 섬세한 감성이 당신의 삶을 한 편의 시처럼 만들어줍니다.',
-    quote: '감성은 당신만의 언어예요, 그걸 잃지 마세요',
+    quote: '감성은 너만의 언어쫀쿠~ 절대 잃지 말라쫀쿠!',
     fluxPrompt: 'fresh blueberry topping, purple glaze dripping on dubai cookie',
   },
   {
@@ -168,7 +168,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '견과류 크런치 + 다크 캐러멜',
     themeColor: '#A07040',
     personality: '한번 마음먹으면 끝까지 밀고 나가는 단단한 사람이에요. 묵묵히 자기 길을 걷는 뚝심이 있어서, 결국엔 목표에 도달하죠. 흔들리지 않는 당신의 의지가, 주변 사람들에게 큰 신뢰를 줍니다.',
-    quote: '포기하지 않는 마음이 가장 강한 무기예요',
+    quote: '포기하지 않는 마음이 가장 강한 무기쫀쿠! 끝까지 밀고 가라쫀쿠~',
     fluxPrompt: 'mixed nut crunch topping, dark caramel coating on dubai cookie',
   },
   {
@@ -178,7 +178,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '레몬 제스트 + 팝핑캔디(톡톡)',
     themeColor: '#FFF44F',
     personality: '세상 모든 것에 궁금증이 넘치는 탐험가 같은 사람이에요. "왜?"라는 질문을 멈추지 않고, 새로운 것을 배우는 데서 에너지를 얻죠. 당신의 호기심이 예상치 못한 발견으로 이어질 거예요.',
-    quote: '궁금한 게 많다는 건, 살아있다는 증거예요',
+    quote: '궁금한 게 많다는 건 살아있다는 증거쫀쿠~ 뭐든 물어보라쫀쿠!',
     fluxPrompt: 'lemon zest curls, visible popping candy sparkling on dubai cookie',
   },
   {
@@ -188,7 +188,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '흑임자 코팅 + 레드 일직선',
     themeColor: '#2C2C2C',
     personality: '옳고 그름에 대한 확고한 신념이 있는 사람이에요. 불의를 보면 가만히 있지 못하고, 약한 사람의 편에 서는 정의로움이 있죠. 당신의 곧은 성격이 세상을 조금 더 나은 곳으로 만들어요.',
-    quote: '올바른 길은 쉽지 않지만, 당신이라면 걸어갈 수 있어요',
+    quote: '올바른 길은 쉽지 않지만 너라면 걸어갈 수 있쫀쿠! 믿으라쫀쿠~',
     fluxPrompt: 'black sesame seed coating, single bold red line on dubai cookie',
   },
   {
@@ -198,7 +198,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '에디블 플라워(장미) + 딸기 초콜릿',
     themeColor: '#E8A0C0',
     personality: '사랑을 주고받는 데 천부적인 재능이 있는 사람이에요. 진심을 다해 상대를 아끼고, 그 마음이 고스란히 전해지죠. 당신이 건네는 사랑은, 받는 사람의 하루를 환하게 밝혀줍니다.',
-    quote: '사랑은 나눌수록 커지는 유일한 것이에요',
+    quote: '사랑은 나눌수록 커지는 유일한 거쫀쿠~ 많이 사랑하라쫀쿠!',
     fluxPrompt: 'edible rose flowers, strawberry chocolate coating on dubai cookie',
   },
   {
@@ -208,7 +208,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '인절미 콩고물 + 팥앙금 포인트',
     themeColor: '#D4A76A',
     personality: '소중한 사람과 추억을 오래 간직하는, 깊은 마음의 소유자예요. 과거의 따뜻했던 순간들을 떠올리며 미소 짓는 당신은, 인연을 소중히 여기는 정 깊은 사람이에요. 그 그리움이 당신을 더 단단하게 만들어요.',
-    quote: '그리운 마음이 있다는 건, 소중한 사람이 있다는 뜻이에요',
+    quote: '그리운 마음이 있다는 건 소중한 사람이 있다는 뜻이쫀쿠~',
     fluxPrompt: 'soybean injeolmi powder coating, red bean paste accent on dubai cookie',
   },
   {
@@ -218,7 +218,7 @@ export const cookieTypes: CookieType[] = [
     decoDescription: '캐러멜 크런치 + 골드 스프레이',
     themeColor: '#C68E17',
     personality: '안주하지 않고 끊임없이 새로운 도전을 찾는 사람이에요. 실패를 두려워하기보다 경험으로 받아들이는 긍정적인 마인드가 있죠. 당신의 도전 정신이 불가능을 가능으로 바꾸는 원동력이에요.',
-    quote: '도전하는 순간, 이미 반은 성공한 거예요',
+    quote: '도전하는 순간 이미 반은 성공한 거쫀쿠! 두려워 말라쫀쿠~',
     fluxPrompt: 'caramel crunch pieces, gold spray metallic coating on dubai cookie',
   },
 ];

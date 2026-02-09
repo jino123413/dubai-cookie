@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { CookieIcon, SparkleIcon } from './BrandIcons';
+import { cookieTypes } from '../data/cookie-types';
 
 interface HomeScreenProps {
   streak: number;
@@ -28,7 +29,8 @@ const HomeScreen: React.FC<HomeScreenProps> = ({
     }
   };
 
-  const progressPercent = Math.round((collectionCount / 22) * 100);
+  const totalCookies = cookieTypes.length;
+  const progressPercent = Math.round((collectionCount / totalCookies) * 100);
 
   return (
     <div className="home-screen">
@@ -64,7 +66,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({
       {/* Collection progress */}
       <div className="collection-section">
         <div className="collection-label">
-          <span>22종 중 {collectionCount}종 발견</span>
+          <span>{totalCookies}종 중 {collectionCount}종 발견</span>
           <span className="collection-percent">{progressPercent}%</span>
         </div>
         <div className="collection-bar">
