@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.ait
+.granite/
+test_denoise_080.py
+reference.jpg
