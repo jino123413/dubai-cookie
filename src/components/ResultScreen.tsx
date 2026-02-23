@@ -1,6 +1,7 @@
 import React, { useCallback } from 'react';
 import { CookieResult } from '../types';
 import { ShareIcon, CookieIcon, SparkleIcon } from './BrandIcons';
+import BannerAd from './BannerAd';
 
 interface ResultScreenProps {
   result: CookieResult;
@@ -115,6 +116,9 @@ const ResultScreen: React.FC<ResultScreenProps> = ({
         </button>
         <p className="ad-notice">광고 시청 후 다른 이름의 쫀쿠를 확인합니다</p>
       </div>
+
+      {/* Banner ad */}
+      <BannerAd adGroupId="ait.v2.live.686bc0f3cf2b48ee" />
     </div>
   );
 };
